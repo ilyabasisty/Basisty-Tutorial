@@ -1,0 +1,10 @@
+WIDTH = 1280
+HEIGHT = 700
+FPS = 30
+
+SIZE = 50
+SPEED = 10
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (210, 0, 0)
